@@ -2,7 +2,6 @@
 __author__ = 'Administrator'
 import kNN
 import matplotlib
-
 import matplotlib.pyplot as plt
 from numpy import *
 
